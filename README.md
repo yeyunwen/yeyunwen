@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yeyunwen.github.io/"><img src="https://img.shields.io/badge/Blog-yeyunwen.github.io-6366F1?style=flat-square" alt="Blog" /></a>
+  <a href="https://yeyunwen.github.io/little/"><img src="https://img.shields.io/badge/Blog-little-6366F1?style=flat-square" alt="Blog" /></a>
   <a href="mailto:cloudhot@163.com"><img src="https://img.shields.io/badge/Email-cloudhot@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Hangzhou%2C%20China-22C55E?style=flat-square" alt="Location" />
 </p>
@@ -69,7 +69,7 @@
 
 Building elegant web experiences with **Vue**, **React**, and **TypeScript**. I use **Python** for automation, **Docker** for containerized deployments, and **Cursor** & **Codex** to ship faster with AI-assisted workflows.
 
-📖 Read more on my [blog](https://yeyunwen.github.io/)
+📖 Read more on my [blog](https://yeyunwen.github.io/little/)
 
 ---
 

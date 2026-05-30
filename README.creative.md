@@ -11,7 +11,7 @@
 <p align="center"><i>Frontend & Full-stack Developer · Hangzhou, China</i></p>
 
 <p align="center">
-  <a href="https://yeyunwen.github.io/">🌐 Portfolio</a> ·
+  <a href="https://yeyunwen.github.io/little/">📝 Blog</a> ·
   <a href="mailto:cloudhot@163.com">📧 Email</a> ·
   <a href="https://github.com/yeyunwen">🐙 GitHub</a>
 </p>

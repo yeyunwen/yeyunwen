@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yeyunwen.github.io/"><img src="https://img.shields.io/badge/Blog-yeyunwen.github.io-6366F1?style=for-the-badge" alt="Blog" /></a>
+  <a href="https://yeyunwen.github.io/little/"><img src="https://img.shields.io/badge/Blog-little-6366F1?style=for-the-badge" alt="Blog" /></a>
   <a href="mailto:cloudhot@163.com"><img src="https://img.shields.io/badge/Email-cloudhot@163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -49,11 +49,11 @@
 
 I'm a developer based in **Hangzhou** who loves crafting polished UIs with **Vue** and **React**, automating workflows with **Python**, shipping reliably with **Docker**, and accelerating delivery through **Cursor** & **Codex** AI pair programming.
 
-When I'm not coding, I document what I learn on my [blog](https://yeyunwen.github.io/).
+When I'm not coding, I document what I learn on my [blog](https://yeyunwen.github.io/little/).
 
 ---
 
 <p align="center">
   <a href="https://github.com/yeyunwen"><img src="https://img.shields.io/badge/GitHub-yeyunwen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://yeyunwen.github.io/"><img src="https://img.shields.io/badge/Portfolio-yeyunwen.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://yeyunwen.github.io/little/"><img src="https://img.shields.io/badge/Blog-little-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" /></a>
 </p>
