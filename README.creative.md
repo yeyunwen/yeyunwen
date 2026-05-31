@@ -21,9 +21,10 @@
 ### 🔭 Currently Exploring
 
 - 🤖 **AI & LLM apps** — Dify, full-stack AI monorepos
+- 🐹 **Go** — backend services & CLI tooling
 - 🐍 **Python automation** — scripts, tooling & backend glue
 - 🐳 **Docker** — reproducible dev & deploy environments
-- ⚡ **AI-assisted coding** — Cursor & Codex in daily workflow
+- ⚡ **AI-assisted coding** — Cursor, Codex & Claude Code in daily workflow
 
 ---
 
@@ -31,10 +32,12 @@
 
 | Tool | What I use it for |
 | :--- | :--- |
+| 🐹 **Go** | Backend services, APIs & performance-critical tooling |
 | 🐳 **Docker** | Containerized apps, consistent dev environments |
 | 🐍 **Python** | Automation, scripting & backend utilities |
 | ✨ **Cursor** | AI-native IDE for faster feature development |
 | 🤖 **Codex** | AI pair programming & code generation |
+| 🧠 **Claude Code** | Terminal-first AI coding agent for complex tasks |
 
 ---
 
@@ -42,7 +45,7 @@
 
 Hey! I'm **Ye Yunwen**, a developer from **Hangzhou** who turns ideas into polished web products.
 
-I spend most of my time in the **TypeScript / Vue / React** ecosystem, but I'm equally comfortable reaching for **Python** when automation is the answer and **Docker** when it's time to ship. **Cursor** and **Codex** are part of my daily toolkit — they help me explore faster and write better code.
+I spend most of my time in the **TypeScript / Vue / React** ecosystem, but I'm equally comfortable reaching for **Go** on the backend, **Python** when automation is the answer, and **Docker** when it's time to ship. **Cursor**, **Codex** and **Claude Code** are part of my daily toolkit — they help me explore faster and write better code.
 
 I believe in learning in public. My repos mix open-source components, study notes, and experiments at the intersection of **frontend** and **AI**.
 
@@ -86,12 +89,14 @@ I believe in learning in public. My repos mix open-source components, study note
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
 ---

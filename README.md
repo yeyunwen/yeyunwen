@@ -2,7 +2,7 @@
 <h3 align="center">Frontend & Full-stack Developer · Hangzhou, China</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+with+Vue+%26+React;Automating+with+Python;Shipping+with+Docker;Pairing+with+Cursor+%26+Codex;Exploring+AI+%26+full-stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+with+Vue+%26+React;Writing+services+in+Go;Automating+with+Python;Shipping+with+Docker;Pairing+with+Cursor%2C+Codex+%26+Claude+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,12 +19,14 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
 ---
@@ -67,7 +69,7 @@
 
 ### 💬 About
 
-Building elegant web experiences with **Vue**, **React**, and **TypeScript**. I use **Python** for automation, **Docker** for containerized deployments, and **Cursor** & **Codex** to ship faster with AI-assisted workflows.
+Building elegant web experiences with **Vue**, **React**, and **TypeScript**. I use **Go** for backend services, **Python** for automation, **Docker** for containerized deployments, and **Cursor**, **Codex** & **Claude Code** to ship faster with AI-assisted workflows.
 
 📖 Read more on my [blog](https://yeyunwen.github.io/little/)
 
