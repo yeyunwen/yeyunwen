@@ -1,80 +1,76 @@
-<h1 align="center">Hi, I'm Ye Yunwen 👋</h1>
-<h3 align="center">Frontend & Full-stack Developer · Hangzhou, China</h3>
+<div align="center">
+
+![Ye Yunwen — Frontend Engineer and Full-stack Builder](./assets/studio-header.svg)
+
+I build polished interfaces, useful tools, and the systems that connect them.
+
+[![Blog](https://img.shields.io/badge/Blog-little-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yeyunwen.github.io/little/)
+[![Email](https://img.shields.io/badge/Email-cloudhot%40163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cloudhot@163.com)
+[![Location](https://img.shields.io/badge/Hangzhou-China-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Hangzhou)
+
+</div>
+
+## 👋 About me
+
+I'm a product-minded developer based in **Hangzhou**. My home ground is **TypeScript**, **Vue**, and **React**; I reach for **Go**, **Python**, and **Node.js** when the work moves behind the interface.
+
+I care about clear interaction, maintainable systems, and using AI tools thoughtfully to shorten the path from an idea to something people can use.
+
+## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+with+Vue+%26+React;Writing+services+in+Go;Automating+with+Python;Shipping+with+Docker;Pairing+with+Cursor%2C+Codex+%26+Claude+Code" alt="Typing SVG" />
+  <img width="44" src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/vue.svg" alt="Vue" title="Vue" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/react.svg" alt="React" title="React" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/nestjs.svg" alt="NestJS" title="NestJS" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/go.svg" alt="Go" title="Go" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/python.svg" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/redis.svg" alt="Redis" title="Redis" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/rust.svg" alt="Rust" title="Rust" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/tauri.svg" alt="Tauri" title="Tauri" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/vite.svg" alt="Vite" title="Vite" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/docker.svg" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/git.svg" alt="Git" title="Git" />
 </p>
 
 <p align="center">
-  <a href="https://yeyunwen.github.io/little/"><img src="https://img.shields.io/badge/Blog-little-6366F1?style=flat-square" alt="Blog" /></a>
-  <a href="mailto:cloudhot@163.com"><img src="https://img.shields.io/badge/Email-cloudhot@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Hangzhou%2C%20China-22C55E?style=flat-square" alt="Location" />
+  <img width="44" src="./assets/icons/cursor.svg" alt="Cursor" title="Cursor" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/codex.svg" alt="Codex" title="Codex" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/claude.svg" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/openclaw.svg" alt="OpenClaw" title="OpenClaw" />
 </p>
 
----
+## ⚡ From idea to shipped product
 
-### 🛠 Tech Stack
+![Animated product delivery flow: idea, interface, API, data, and shipping](./assets/product-flow.svg)
+
+<p align="center"><sub><b>Data-platform exposure</b> · working knowledge</sub></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img width="32" src="./assets/icons/hadoop.svg" alt="Apache Hadoop" title="Apache Hadoop" />&nbsp;&nbsp;
+  <img width="32" src="./assets/icons/spark.svg" alt="Apache Spark" title="Apache Spark" />&nbsp;&nbsp;
+  <img width="32" src="./assets/icons/hive.svg" alt="Apache Hive" title="Apache Hive" />&nbsp;&nbsp;
+  <img width="32" src="./assets/icons/kafka.svg" alt="Apache Kafka" title="Apache Kafka" />
 </p>
 
----
+## ✨ Selected work
 
-### 📊 GitHub Stats
+| Project | What you will find | |
+| --- | --- | --- |
+| 🧠 [**skills-hub**](https://github.com/yeyunwen/skills-hub) | Desktop app and CLI for managing AI coding-agent skills across Codex, Claude, Cursor, and OpenClaw | ![Stars](https://img.shields.io/github/stars/yeyunwen/skills-hub?style=flat-square&color=F43F5E) |
+| 🔁 [**seamless-scroll**](https://github.com/yeyunwen/seamless-scroll) | Lightweight seamless scrolling for React and Vue | ![Stars](https://img.shields.io/github/stars/yeyunwen/seamless-scroll?style=flat-square&color=22C55E) |
+| 📝 [**little**](https://github.com/yeyunwen/little) | Frontend notes, concepts, and debugging stories | ![Stars](https://img.shields.io/github/stars/yeyunwen/little?style=flat-square&color=8B5CF6) |
+| 💿 [**redux-famliy**](https://github.com/yeyunwen/redux-famliy) | Redux and its ecosystem rebuilt from first principles | ![Stars](https://img.shields.io/github/stars/yeyunwen/redux-famliy?style=flat-square&color=F59E0B) |
+| 🤖 [**dify-ai-monorepo**](https://github.com/yeyunwen/dify-ai-monorepo) | SDK, miniprogram, and server experiments | ![Stars](https://img.shields.io/github/stars/yeyunwen/dify-ai-monorepo?style=flat-square&color=06B6D4) |
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yeyunwen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yeyunwen&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyunwen&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
+**Build clearly · Learn in public · Keep shipping**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeyunwen&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=yeyunwen&label=Profile%20views&color=7C3AED&style=flat-square)
 
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/yeyunwen/seamless-scroll">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeyunwen&repo=seamless-scroll&theme=tokyonight" alt="seamless-scroll" />
-  </a>
-  <a href="https://github.com/yeyunwen/little">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeyunwen&repo=little&theme=tokyonight" alt="little" />
-  </a>
-  <a href="https://github.com/yeyunwen/dify-ai-monorepo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeyunwen&repo=dify-ai-monorepo&theme=tokyonight" alt="dify-ai-monorepo" />
-  </a>
-  <a href="https://github.com/yeyunwen/vue3-element-admin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeyunwen&repo=vue3-element-admin&theme=tokyonight" alt="vue3-element-admin" />
-  </a>
-</p>
-
----
-
-### 💬 About
-
-Building elegant web experiences with **Vue**, **React**, and **TypeScript**. I use **Go** for backend services, **Python** for automation, **Docker** for containerized deployments, and **Cursor**, **Codex** & **Claude Code** to ship faster with AI-assisted workflows.
-
-📖 Read more on my [blog](https://yeyunwen.github.io/little/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeyunwen&label=Profile%20views&color=6366F1&style=flat-square" alt="Profile views" />
-</p>
+</div>
