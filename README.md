@@ -33,6 +33,7 @@ I care about clear interaction, maintainable systems, and using AI tools thought
   <img width="44" src="./assets/icons/rust.svg" alt="Rust" title="Rust" />&nbsp;&nbsp;
   <img width="44" src="./assets/icons/tauri.svg" alt="Tauri" title="Tauri" />&nbsp;&nbsp;
   <img width="44" src="./assets/icons/vite.svg" alt="Vite" title="Vite" />&nbsp;&nbsp;
+  <img width="44" src="./assets/icons/nginx.svg" alt="Nginx" title="Nginx" />&nbsp;&nbsp;
   <img width="44" src="./assets/icons/docker.svg" alt="Docker" title="Docker" />&nbsp;&nbsp;
   <img width="44" src="./assets/icons/git.svg" alt="Git" title="Git" />
 </p>
