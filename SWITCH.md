@@ -9,6 +9,7 @@ This repo includes three profile README variants. Only `README.md` is displayed 
 | `README.md` | **Animated** (default) | Stats cards, typing effect, contribution graph |
 | `README.minimal.md` | **Minimal** | Fast loading, clean badges, project table |
 | `README.creative.md` | **Creative** | ASCII banner, toolbox, collapsible projects, snake animation |
+| `README.terminal.md` | **Terminal** | CRT-style profile card inspired by your reference image |
 
 ## How to Switch
 
@@ -21,6 +22,9 @@ cp README.animated.md README.md
 
 # Switch to Creative (includes contribution snake — run workflow first)
 cp README.creative.md README.md
+
+# Switch to Terminal (CRT-style profile card)
+cp README.terminal.md README.md
 
 # Commit and push
 git add README.md
